@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Richard Yeung's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ryrichard/ryrichard.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am new to this and will build upon it overtime. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects I have worked on or am currently working on
 
 ```markdown
-Syntax highlighted code block
+# Building an app that teaches users about cybersecurity
 
-# Header 1
-## Header 2
-### Header 3
+- Developing on the Unity Engine
+- Incorporating Unity's VR to be used on user's phone
 
-- Bulleted
-- List
+# Building an app on Unity that will calculate the position of an object based on photos
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Developing on the Unity Engine
+- Incorporating Machine Learning to calculate position of the moving object
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
